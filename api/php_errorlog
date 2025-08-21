@@ -1,0 +1,2 @@
+[15-Aug-2025 19:46:51 Asia/Kuwait] PHP Fatal error:  Cannot redeclare pos_user() (previously declared in /home/customer/www/mohamedk10.sg-host.com/public_html/config/db.php:125) in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/pos_auth.php on line 8
+[15-Aug-2025 19:47:20 Asia/Kuwait] PHP Fatal error:  Cannot redeclare pos_user() (previously declared in /home/customer/www/mohamedk10.sg-host.com/public_html/config/db.php:125) in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/pos_auth.php on line 8
