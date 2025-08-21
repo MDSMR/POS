@@ -1,0 +1,36 @@
+[17-Aug-2025 22:26:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/orders/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[17-Aug-2025 22:44:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/orders/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[17-Aug-2025 22:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/orders/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[17-Aug-2025 22:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/orders/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[17-Aug-2025 22:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/orders/index.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[17-Aug-2025 22:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/orders/index.php(6): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6

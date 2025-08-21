@@ -1,0 +1,251 @@
+[15-Aug-2025 13:46:17 Asia/Kuwait] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php:71
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 71
+[15-Aug-2025 15:05:43 Asia/Kuwait] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php:71
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 71
+[15-Aug-2025 17:55:40 Asia/Kuwait] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php:71
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 71
+[15-Aug-2025 18:37:40 Asia/Kuwait] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php:71
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 71
+[15-Aug-2025 18:37:50 Asia/Kuwait] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php:71
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 71
+[15-Aug-2025 18:38:08 Asia/Kuwait] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php:71
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 71
+[15-Aug-2025 18:38:25 Asia/Kuwait] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php:71
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(71): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 71
+[16-Aug-2025 10:32:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 10:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 10:34:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 10:35:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 10:35:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 10:35:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 10:35:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 10:35:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 10:35:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backend_require_login() in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php:6
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/_header.php(6): auth_require_login()
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/middleware/auth.php on line 6
+[16-Aug-2025 20:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/product_edit.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/product_edit.php on line 18
+[17-Aug-2025 09:48:20 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined array key "order_reference" in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/order_view.php:76
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/order_view.php(76): {closure}(2, 'Undefined array...', '/home/customer/...', 76)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/order_view.php on line 76
+[17-Aug-2025 09:48:29 UTC] PHP Fatal error:  Uncaught ErrorException: Trying to access array offset on value of type null in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/order_edit.php:89
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/order_edit.php(89): {closure}(2, 'Trying to acces...', '/home/customer/...', 89)
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/order_edit.php on line 89
+[17-Aug-2025 21:36:14 UTC] PHP Fatal error:  Cannot redeclare h() (previously declared in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards_customers.php:84) in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 28
+[17-Aug-2025 21:36:26 UTC] PHP Fatal error:  Cannot redeclare h() (previously declared in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards_customers.php:84) in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 28
+[17-Aug-2025 21:37:16 UTC] PHP Fatal error:  Cannot redeclare h() (previously declared in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards_customers.php:84) in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 28
+[17-Aug-2025 21:38:39 UTC] PHP Fatal error:  Cannot redeclare h() (previously declared in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards_customers.php:113) in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 28
+[17-Aug-2025 21:51:33 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:107
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(107): {closure}(2, 'Undefined varia...', '/home/customer/...', 107)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards_customers.php(140): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 107
+[17-Aug-2025 21:52:00 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:107
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(107): {closure}(2, 'Undefined varia...', '/home/customer/...', 107)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(78): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 107
+[17-Aug-2025 21:52:02 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:107
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(107): {closure}(2, 'Undefined varia...', '/home/customer/...', 107)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(78): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 107
+[17-Aug-2025 21:52:52 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:108
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(108): {closure}(2, 'Undefined varia...', '/home/customer/...', 108)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(78): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 108
+[17-Aug-2025 21:52:55 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:108
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(108): {closure}(2, 'Undefined varia...', '/home/customer/...', 108)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(78): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 108
+[17-Aug-2025 21:54:44 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:108
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(108): {closure}(2, 'Undefined varia...', '/home/customer/...', 108)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(78): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 108
+[17-Aug-2025 22:02:17 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:108
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(108): {closure}(2, 'Undefined varia...', '/home/customer/...', 108)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(78): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 108
+[17-Aug-2025 22:04:16 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:108
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(108): {closure}(2, 'Undefined varia...', '/home/customer/...', 108)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(116): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 108
+[17-Aug-2025 22:07:03 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:108
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(108): {closure}(2, 'Undefined varia...', '/home/customer/...', 108)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(116): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 108
+[17-Aug-2025 22:15:55 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:108
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(108): {closure}(2, 'Undefined varia...', '/home/customer/...', 108)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(116): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 108
+[17-Aug-2025 22:16:26 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:102
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(102): {closure}(2, 'Undefined varia...', '/home/customer/...', 102)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(116): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 102
+[17-Aug-2025 22:16:29 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:102
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(102): {closure}(2, 'Undefined varia...', '/home/customer/...', 102)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(116): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 102
+[17-Aug-2025 22:17:09 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 65536 bytes) in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 5
+[17-Aug-2025 22:18:45 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:102
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(102): {closure}(2, 'Undefined varia...', '/home/customer/...', 102)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(116): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 102
+[17-Aug-2025 22:24:04 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:102
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(102): {closure}(2, 'Undefined varia...', '/home/customer/...', 102)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(116): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 102
+[17-Aug-2025 22:24:30 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $group in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:102
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(102): {closure}(2, 'Undefined varia...', '/home/customer/...', 102)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php(116): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 102
+[17-Aug-2025 22:27:55 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 7
+[17-Aug-2025 22:27:58 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 7
+[17-Aug-2025 22:28:10 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 6
+[17-Aug-2025 22:30:28 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 6
+[17-Aug-2025 22:30:30 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/dashboard.php on line 6
+[17-Aug-2025 22:54:21 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $__isCatalog in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:97
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(97): {closure}(2, 'Undefined varia...', '/home/customer/...', 97)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/settings.php(61): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 97
+[17-Aug-2025 23:02:54 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $__isCatalog in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:91
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(91): {closure}(2, 'Undefined varia...', '/home/customer/...', 91)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/settings.php(61): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 91
+[17-Aug-2025 23:02:56 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $__isCatalog in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:91
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(91): {closure}(2, 'Undefined varia...', '/home/customer/...', 91)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/catalog.php(69): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 91
+[17-Aug-2025 23:03:03 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $__isCatalog in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:91
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(91): {closure}(2, 'Undefined varia...', '/home/customer/...', 91)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/products.php(192): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 91
+[17-Aug-2025 23:03:04 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $__isCatalog in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:91
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(91): {closure}(2, 'Undefined varia...', '/home/customer/...', 91)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/catalog.php(69): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 91
+[17-Aug-2025 23:03:05 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $__isCatalog in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:91
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(91): {closure}(2, 'Undefined varia...', '/home/customer/...', 91)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/settings.php(61): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 91
+[17-Aug-2025 23:03:07 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $__isCatalog in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:91
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(91): {closure}(2, 'Undefined varia...', '/home/customer/...', 91)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/settings.php(61): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 91
+[17-Aug-2025 23:03:12 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $__isCatalog in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php:91
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php(91): {closure}(2, 'Undefined varia...', '/home/customer/...', 91)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/settings.php(61): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_nav.php on line 91

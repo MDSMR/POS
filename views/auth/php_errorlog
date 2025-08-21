@@ -1,0 +1,16 @@
+[15-Aug-2025 13:08:56 Asia/Kuwait] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/mohamedk10.sg-host.com/public_html/views/auth/login.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/auth/login.php on line 20
+[15-Aug-2025 13:31:21 Asia/Kuwait] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/mohamedk10.sg-host.com/public_html/views/auth/login.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/auth/login.php on line 20
+[15-Aug-2025 22:41:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function use_backend_session() in /home/customer/www/mohamedk10.sg-host.com/public_html/views/auth/login.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/auth/login.php on line 44
+[16-Aug-2025 10:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function use_backend_session() in /home/customer/www/mohamedk10.sg-host.com/public_html/views/auth/login.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/auth/login.php on line 44

@@ -1,0 +1,9 @@
+[15-Aug-2025 00:22:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/mohamedk10.sg-host.com/public_html/scripts/diag/../../config.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/mohamedk10.sg-host.com/public_html/scripts/diag/pdo_probe.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/scripts/diag/pdo_probe.php on line 9
+[15-Aug-2025 00:30:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ukg4rxwkkd0is'@'localhost' to database 'dbvtrnbzad193e' in /home/customer/www/mohamedk10.sg-host.com/public_html/scripts/diag/pdo_probe2.php:62
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/scripts/diag/pdo_probe2.php(62): mysqli->real_connect('localhost', 'ukg4rxwkkd0is', Object(SensitiveParameterValue), 'dbvtrnbzad193e')
+#1 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/scripts/diag/pdo_probe2.php on line 62

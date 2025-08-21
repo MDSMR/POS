@@ -1,0 +1,18 @@
+[18-Aug-2025 16:51:01 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_header.php): Failed to open stream: No such file or directory in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php:29
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php(29): {closure}(2, 'include(/home/c...', '/home/customer/...', 29)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php(29): include()
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php on line 29
+[18-Aug-2025 16:58:15 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_header.php): Failed to open stream: No such file or directory in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php:29
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php(29): {closure}(2, 'include(/home/c...', '/home/customer/...', 29)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php(29): include()
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php on line 29
+[18-Aug-2025 16:59:23 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/customer/www/mohamedk10.sg-host.com/public_html/views/partials/admin_header.php): Failed to open stream: No such file or directory in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php:29
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php(29): {closure}(2, 'include(/home/c...', '/home/customer/...', 29)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php(29): include()
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/points/catalog.php on line 29

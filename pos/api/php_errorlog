@@ -1,0 +1,8 @@
+[14-Aug-2025 23:57:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/mohamedk10.sg-host.com/public_html/pos/api/../../config/db.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/mohamedk10.sg-host.com/public_html/pos/api/me.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/pos/api/me.php on line 3
+[14-Aug-2025 23:58:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/mohamedk10.sg-host.com/public_html/pos/api/../../config/db.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/mohamedk10.sg-host.com/public_html/pos/api/items.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/pos/api/items.php on line 3

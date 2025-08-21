@@ -1,0 +1,6 @@
+[18-Aug-2025 13:35:17 UTC] PHP Fatal error:  Uncaught ErrorException: require(/home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/../partials/admin_nav.php): Failed to open stream: No such file or directory in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/index.php:77
+Stack trace:
+#0 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/index.php(77): {closure}(2, 'require(/home/c...', '/home/customer/...', 77)
+#1 /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/index.php(77): require()
+#2 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/views/admin/rewards/index.php on line 77

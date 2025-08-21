@@ -1,0 +1,8 @@
+[20-Aug-2025 23:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/customer/www/mohamedk10.sg-host.com/public_html/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/index.php on line 12
+[20-Aug-2025 23:29:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/customer/www/mohamedk10.sg-host.com/public_html/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/mohamedk10.sg-host.com/public_html/index.php on line 12
